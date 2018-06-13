@@ -15,5 +15,10 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
+
+    <modules>
+        <module>cms-dao</module>
+        <module>cms-dao</module>
+    </modules>
     
 </project>
