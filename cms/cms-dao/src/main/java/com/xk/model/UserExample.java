@@ -1,4 +1,4 @@
-package com.zheng.model;
+package com.xk.model;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,6 +1,6 @@
-package com.zheng.interceptor;
+package com.xk.interceptor;
 
-import com.zheng.util.Paginator;
+import com.xk.util.Paginator;
 import org.apache.ibatis.executor.statement.StatementHandler;
 import org.apache.ibatis.mapping.BoundSql;
 import org.apache.ibatis.mapping.MappedStatement;

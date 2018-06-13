@@ -1,7 +1,7 @@
-package com.zheng.mapper;
+package com.xk.mapper;
 
-import com.zheng.model.User;
-import com.zheng.model.UserExample;
+import com.xk.model.User;
+import com.xk.model.UserExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 

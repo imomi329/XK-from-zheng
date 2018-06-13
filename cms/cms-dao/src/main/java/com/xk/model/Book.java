@@ -1,4 +1,4 @@
-package com.zheng.model;
+package com.xk.model;
 
 public class Book {
     private Integer id;

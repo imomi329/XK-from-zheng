@@ -1,7 +1,7 @@
-package com.zheng.mapper;
+package com.xk.mapper;
 
-import com.zheng.model.Book;
-import com.zheng.model.BookExample;
+import com.xk.model.Book;
+import com.xk.model.BookExample;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
